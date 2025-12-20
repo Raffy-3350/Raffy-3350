@@ -1,4 +1,4 @@
-<h2 align="center">𒆜 Hey,  Welcome to my Github 𒆜</h2>
+<h2 align="center">Hey,  Welcome to my Github</h2>
 
 ###
 
@@ -56,12 +56,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="39" alt="php logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="39" alt="mysql logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raffy-3350&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
