@@ -1,14 +1,26 @@
-<h2 align="left">Hey,  Welcome to my Github</h2>
+<h2 align="left">Hey, Welcome to my Github</h2>
 
-###
+<img align="right" height="283" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
 
-<br clear="both">
-
-<div align="center">
-  <img height="374" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif"  />
+<div align="left">
+  <a href="https://www.instagram.com/rffyyy_lppzzz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/raffylapiz.2025/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo"  />
+  </a>
+  <a href="mailto:raffylapiz3350@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo"  />
+  </a>
 </div>
 
-###
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Raffy-3350&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
+
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="39" alt="javascript logo"  />
@@ -42,31 +54,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="39" alt="mysql logo"  />
 </div>
 
-###
+<br>
 
 <div align="center">
-  <a href="rffyyy_lppzzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/raffylapiz.2025/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="facebook logo"  />
-  </a>
-  <a href="raffylapiz3350@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="38" alt="gmail logo"  />
-  </a>
+  <img src="https://raw.githubusercontent.com/Raffy-3350/Raffy-3350/output/snake.svg" alt="Snake animation" />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Raffy-3350&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Raffy-3350&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/Raffy-3350/Raffy-3350/output/snake.svg" alt="Snake animation" />
-
-###
