@@ -125,7 +125,9 @@
 
 
 ## 📈 GitHub Stats
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Raffy-3350&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
+</div>
 <div align="center">
   <img src="https://raw.githubusercontent.com/Raffy-3350/Raffy-3350/main/metrics.svg" alt="metrics" />
 </div>
