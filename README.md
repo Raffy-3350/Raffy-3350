@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="280" src="https://i.pinimg.com/originals/90/70/32/9070324cdfc07c68d60eed0c39e77573.gif" style="border-radius: 12px;" />
+  <img height="280" width="980"  src="https://pin.it/5OlalWBQ1" style="border-radius: 12px;" />
 </div>
 
 <br>
@@ -126,11 +126,13 @@
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Raffy-3350&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
-</div>
-<div align="center">
   <img src="https://raw.githubusercontent.com/Raffy-3350/Raffy-3350/main/metrics.svg" alt="metrics" />
 </div>
+<br>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Raffy-3350&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
+</div>
+
 <br>
 
 <div align="center">
