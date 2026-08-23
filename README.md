@@ -19,7 +19,7 @@
   <a href="https://www.instagram.com/rffyyy_lppzzz" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo" />
   </a>
-  <a href="[https://www.facebook.com/raffylapiz.2025/](https://www.facebook.com/share/1Ci7cFq1qG/)" target="_blank">
+  <a href="https://web.facebook.com/raffy.lapiz.26" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo" />
   </a>
   <a href="mailto:raffylapiz3350@gmail.com" target="_blank">
