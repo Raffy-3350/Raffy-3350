@@ -20,7 +20,7 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo" />
   </a>
   <a href="https://www.facebook.com/raffylapiz.2025/" target="_blank">
-    <img src="[https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge](https://www.facebook.com/share/1Ci7cFq1qG/)" height="34" alt="facebook logo" />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo" />
   </a>
   <a href="mailto:raffylapiz3350@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="gmail logo" />
