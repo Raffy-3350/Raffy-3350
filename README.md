@@ -123,19 +123,12 @@
 </tr>
 </table>
 
-<br>
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Raffy-3350&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" alt="github stats" />
-  <img src="https://streak-stats.demolab.com/?user=Raffy-3350&theme=tokyonight&hide_border=true" height="165" alt="streak stats" />
+  <img src="https://raw.githubusercontent.com/Raffy-3350/Raffy-3350/main/metrics.svg" alt="metrics" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raffy-3350&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
-</div>
-
 <br>
 
 <div align="center">
