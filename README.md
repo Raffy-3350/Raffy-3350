@@ -7,7 +7,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="280" width="980"  src="https://pin.it/5OlalWBQ1" style="border-radius: 12px;" />
+  <img height="300" width="900" src="https://i.pinimg.com/originals/b1/5b/d5/b15bd596014d9d9310e59b07b85da550.gif" style="border-radius: 12px;" />
 </div>
 
 <br>
@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="42" alt="django" />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/flask/white" height="42" alt="flask" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="42" alt="flask" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" />
   <img width="12" />
@@ -74,20 +74,32 @@
 **HTML5** `100%`
 ![100%](https://geps.dev/progress/100)
 
+<br>
+
 **Figma** `100%`
 ![100%](https://geps.dev/progress/100)
+
+<br>
 
 **CSS** `94%`
 ![94%](https://geps.dev/progress/94)
 
+<br>
+
 **Tailwind CSS** `89%`
 ![89%](https://geps.dev/progress/89)
+
+<br>
 
 **PHP** `86%`
 ![86%](https://geps.dev/progress/86)
 
+<br>
+
 **MySQL** `86%`
 ![86%](https://geps.dev/progress/86)
+
+<br>
 
 **JavaScript** `80%`
 ![80%](https://geps.dev/progress/80)
@@ -98,23 +110,37 @@
 **Bootstrap** `46%`
 ![46%](https://geps.dev/progress/46)
 
+<br>
+
 **Java** `43%`
 ![43%](https://geps.dev/progress/43)
+
+<br>
 
 **Python** `40%`
 ![40%](https://geps.dev/progress/40)
 
+<br>
+
 **Django** `36%`
 ![36%](https://geps.dev/progress/36)
+
+<br>
 
 **Flask** `30%`
 ![30%](https://geps.dev/progress/30)
 
+<br>
+
 **Android** `30%`
 ![30%](https://geps.dev/progress/30)
 
+<br>
+
 **Kotlin** `29%`
 ![29%](https://geps.dev/progress/29)
+
+<br>
 
 **Blender** `26%`
 ![26%](https://geps.dev/progress/26)
