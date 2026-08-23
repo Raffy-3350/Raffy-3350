@@ -16,9 +16,6 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Website&logo=globe&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="website logo" />
   </a>
-  <a href="https://www.instagram.com/rffyyy_lppzzz" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="instagram logo" />
-  </a>
   <a href="https://web.facebook.com/raffy.lapiz.26" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="34" alt="facebook logo" />
   </a>
@@ -47,6 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="42" alt="java" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="42" alt="tailwindcss" />
+  <br>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="42" alt="bootstrap" />
   <img width="12" />
@@ -65,7 +63,8 @@
 
 <br>
 
-## 📊 Skill Levels
+## 📊 Skill Levels 
+<br>
 
 <table align="center">
 <tr>
